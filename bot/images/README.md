@@ -1,0 +1,1 @@
+# This directory needs to be present. It is used to download images.
